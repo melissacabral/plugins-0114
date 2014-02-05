@@ -1,0 +1,17 @@
+#rad-corner-ribbon{
+	position: fixed;
+	top:0;
+	left:0;
+	/*RESET STUFF*/
+	background-color: transparent !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	border:none !important;
+	line-height: 1em !important;
+	cursor: pointer !important;
+	text-decoration: none !important;
+	outline: none !important;
+}
+.admin-bar #rad-corner-ribbon{
+	top:30px;
+}
