@@ -1,0 +1,12 @@
+/* 
+==Styles for the login and register forms 
+*/
+
+body.login{
+	background-color: #696763;
+}
+.login h1 a{
+	background-image: url(images/logo.png);
+	width:auto;
+	background-size: auto auto;
+}
